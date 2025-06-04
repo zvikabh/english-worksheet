@@ -13,6 +13,10 @@ const VOCABULARIES = [
     name: 'Irregular Verbs G-M (Ayala)',
     dataLink: 'irregular_g2m_ayala.json'
   },
+  {
+    name: 'Unit 2 Vocabulary',
+    dataLink: 'unit2.json'
+  },
 ];
 
 function init() {
