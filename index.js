@@ -10,12 +10,16 @@ const VOCABULARIES = [
     dataLink: 'irregular_g2m.json'
   },
   {
-    name: 'Irregular Verbs G-M (Ayala)',
+    name: 'Irregular Verbs G-M (Filtered)',
     dataLink: 'irregular_g2m_ayala.json'
   },
   {
     name: 'Unit 2 Vocabulary',
     dataLink: 'unit2.json'
+  },
+  {
+    name: 'Unit 2 Vocabulary (Filtered)',
+    dataLink: 'unit2_filtered.json'
   },
 ];
 
