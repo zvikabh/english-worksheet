@@ -21,6 +21,10 @@ const VOCABULARIES = [
     name: 'Unit 2 Vocabulary (Filtered)',
     dataLink: 'unit2_filtered.json'
   },
+  {
+    name: 'Possessives',
+    dataLink: 'possessives.json'
+  },
 ];
 
 function init() {

@@ -1,0 +1,18 @@
+[
+  {"eng": "mine", "heb": "שלי"},
+  {"eng": "my book", "heb": "הספר שלי"},
+  {"eng": "yours", "heb": "שלך"},
+  {"eng": "your book", "heb": "הספר שלך"},
+  {"eng": "his", "heb": "שלו"},
+  {"eng": "his book", "heb": "הספר שלו"},
+  {"eng": "hers", "heb": "שלה"},
+  {"eng": "her book", "heb": "הספר שלה"},
+  {"eng": "its", "heb": "שלו (דומם)"},
+  {"eng": "its wheel", "heb": "הגלגל שלו (של האוטו)"},
+  {"eng": "ours", "heb": "שלנו"},
+  {"eng": "our book", "heb": "הספר שלנו"},
+  {"eng": "yours", "heb": "שלכם"},
+  {"eng": "your book", "heb": "הספר שלכם"},
+  {"eng": "theirs", "heb": "שלהם"},
+  {"eng": "their book", "heb": "הספר שלהם"}
+]
